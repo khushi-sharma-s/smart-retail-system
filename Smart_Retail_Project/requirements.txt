@@ -1,4 +1,6 @@
 streamlit
-tensorflow
+tensorflow-cpu
 pandas
 matplotlib
+pillow
+scikit-learn
